@@ -1780,3 +1780,28 @@ a:focus {
 #title-solutions {
     color: #fff;
 }
+
+.service .service-item-manuais {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    background: #04295b;
+    margin-bottom: 30px;
+}
+
+.service .service-icon-manuais {
+    height: 200px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #0e3154;
+}
+
+.service-item-manuais p {
+    height: 47px;
+}
+
+.service-item-manuais h3, p {
+    color: #fff;
+}
