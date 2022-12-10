@@ -1790,16 +1790,10 @@ a:focus {
 }
 
 .service .service-icon-manuais {
-    height: 200px;
-    position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
     background: #0e3154;
-}
-
-.service-item-manuais p {
-    height: 47px;
 }
 
 .service-item-manuais h3, p {
